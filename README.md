@@ -1,4 +1,4 @@
-  <h1>Lung Cancer Analysis & Prediction</h1>
+  <h1>🫁 Lung Cancer Analysis & Prediction</h1>
 
   <p>This project involves data exploration and prediction of lung cancer likelihood based on survey responses using machine learning. The goal is to identify key patterns and train models to classify whether an individual is likely to have lung cancer.</p>
 
@@ -25,19 +25,35 @@
     <li>Bar plots comparing symptoms and habits across gender (e.g., Smoking, Alcohol, Anxiety)</li>
   </ul>
 
-  <h2>🖼️ Gallery</h2>
-  <p>Below are sample visualizations generated during the EDA phase:</p>
-  <ul>
-    <li><strong>Age Distribution of Patients:</strong><br>
-      <img src="images/age_distribution.png" alt="Age distribution histogram">
-    </li>
-    <li><strong>Gender vs Smoking:</strong><br>
-      <img src="images/gender_vs_smoking.png" alt="Bar chart of gender vs smoking">
-    </li>
-    <li><strong>Correlation Heatmap:</strong><br>
-      <img src="images/heatmap.png" alt="Correlation heatmap">
-    </li>
-  </ul>
+  <h2 id="gallery">🖼️ Gallery</h2>
+
+<h3>📌 Positive Cases' Age Distribution</h3>
+<img src="https://github.com/user-attachments/assets/f6882150-f486-4162-bca8-2868901d58ee" width="600" height="400">
+
+<h3>📌 Positive Cases' Gender Distribution</h3>
+<img src="https://github.com/user-attachments/assets/2d0f9711-c763-4841-844e-a7fc75100a25" width="600" height="400">
+
+<h3>📌 Gender-wise Positive Cases' Reasons</h3>
+<img src="https://github.com/user-attachments/assets/d30a0dfa-5e9c-4b6a-9a8c-a0025500ef33" width="600" height="400">
+
+<h3>📌 Gender-wise Positive Cases' Symptoms</h3>
+<img src="https://github.com/user-attachments/assets/ba335815-e338-4434-800e-4ad5988ec2b0" width="600" height="400">
+
+<h3>📌 Correlation Heatmap</h3>
+<img src="https://github.com/user-attachments/assets/3d0ec8ef-a673-4822-aa55-103b596faf62" width="600" height="400">
+
+<h3>🛠️ Training and Testing Accuracy for Models</h3>
+
+<h3>📌 Performance Evaluation - Lung Cancer Analysis</h3>
+<img src="https://github.com/user-attachments/assets/205f8641-71fc-4aee-aa69-6257188de464" width="600" height="400">
+
+<h3>📌 Confusion Matrix on Applied Testing Models</h3>
+<img src="https://github.com/user-attachments/assets/37e41397-69be-4e0b-9505-731a09043afe" width="600" height="400">
+
+<h3>📌 ROC - Curve on Applied Testing Models</h3>
+<img src="https://github.com/user-attachments/assets/9ddb80f3-21aa-4a25-b276-9099b31985f4" width="600" height="400">
+
+<br>
 
   <h2>🔬 Correlation Analysis</h2>
   <p>A Pearson correlation heatmap was created to understand feature relationships. Features like Smoking and Yellow Fingers showed stronger correlations with lung cancer incidence.</p>
@@ -83,8 +99,8 @@
   </ul>
 
   <hr>
-  <p><strong>Author:</strong> Your Name Here<br>
-     <strong>GitHub:</strong> <a href="https://github.com/yourusername">@yourusername</a>
+  <p><strong>Author:</strong> Sristry Rani Das<br>
+     <strong>GitHub:</strong> <a href="https://github.com/sristydas14">Sristy Rani Das</a>
   </p>
 </body>
 </html>
